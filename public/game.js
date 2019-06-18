@@ -1,6 +1,6 @@
 const append = (child) => { document.body.appendChild(child); };
 const {
-  Application, loader, Sprite, SpriteUtilites, utils, Rectangle,
+  Application, loader, Sprite, utils, Rectangle,
 } = PIXI;
 
 const { TextureCache } = utils;
